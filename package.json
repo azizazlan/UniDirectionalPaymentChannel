@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.0",
+    "chai": "^4.2.0",
+    "ethereumjs-util": "^7.0.7",
+    "openzeppelin-test-helpers": "^0.5.1"
+  }
+}
